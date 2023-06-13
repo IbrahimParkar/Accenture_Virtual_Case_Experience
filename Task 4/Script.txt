@@ -1,0 +1,35 @@
+Greetings,
+I hope you're doing well. My name is Ibrahim Parkar, and I am a Data Analyst at Accenture. Today, I'm excited to share with you the insights i have uncovered through my data analysis efforts on SocialBuzz, a prominent social media and content creation platform.
+
+I will now be sharing today's agenda First, we will begin with the project recap, where we will provide a brief overview of the project's objectives and key aspects. Then, we will delve into the challenges faced by SocialBuzz that led to the need for data analysis. After that, we will introduce the members of the analytics team and their respective roles. We will explore the methodologies and steps followed during the data analysis process, and present the key findings and insights derived from the analysis.
+Finally, i will conclude with a summary of the project outcomes, achievements, and their implications for SocialBuzz.
+
+So, this is the project recap for our engagement with Social Buzz. Our main objective is to assist them in enhancing their big data practices through comprehensive analysis, as well as provide support for their upcoming IPO. We are conducting a thorough audit of their big data practice, analyzing the top 5 content categories for popularity, and providing valuable insights. Throughout the 3-month engagement, we are collaborating closely with the Social Buzz team to ensure impactful data analysis and delivering meaningful results.
+
+Let's take a look at the challenges SocialBuzz is facing in their data analysis process. Firstly, they encounter complexity in analyzing diverse data types, including text, images, videos, and GIFs. They also need assistance in identifying the top 5 content categories with the highest aggregate popularity. Furthermore, SocialBuzz requires support in data extraction and integration from various sources. They seek help in visually presenting analysis results and deriving meaningful insights. Additionally, they need guidance in establishing robust data governance practices to ensure data quality, accuracy, and compliance.
+
+Next I would like to introduce you to the analyst team working on the SocialBuzz project. Leading the team is Andrew Flemming, our Chief Technology Architect. Assisting him is Marcus Rompton, a seasoned Senior Principal. And lastly, we have myself Ibrahim Parkar, a skilled Data Analyst who has been instrumental in uncovering valuable insights from SocialBuzz's data.
+
+I undertook a structured process to uncover insights from SocialBuzz's data. This process involved understanding the data sources, cleaning and preparing the data for analysis, creating data models, performing thorough analysis, and extracting valuable insights. 
+
+After analyzing the data, it is evident that the top five categories with the highest scores are animals, science, healthy eating, technology, and food. Furthermore, the analysis reveals that the month of May had the highest number of posts, indicating increased user activity, while February had the lowest number of posts. 
+
+Upon further analysis, it is evident that the top five reactions expressed by users are heart, scared, peeking, hate, and interested.  Additionally, the sentiment analysis indicates that most users exhibited a positive sentiment towards the posts, followed by negative and neutral sentiments. 
+
+It also became evident that the category of animals garnered the highest number of reactions from users.Additionally, the analysis reveals that the most commonly used content type by users is photos, suggesting that visual content is highly preferred and resonates well with the audience. Conversely, audio content appears to be less utilized, indicating a lower level of user engagement with this content format. 
+
+Based on these insights, there are several ways to improve SocialBuzz:
+
+Let's start by looking at the top 5 categories that received the highest score on SocialBuzz. These categories are animals, science, healthy eating, technology, and food. These topics generated a lot of interest and engagement from users, making them the most popular categories on the platform.
+
+When it comes to user activity, May had the highest number of posts, indicating a peak in user participation and engagement during that month. On the other hand, February had the least number of posts, suggesting a quieter period on the platform.
+
+Next, we analyzed user reactions and identified the top 5 reactions expressed by users. These reactions are heart, scared, peeking, hate, and interested. It's interesting to see how users engage emotionally with the content on SocialBuzz through these reactions.
+
+In terms of sentiments, the majority of the posts exhibited positive sentiments, followed by negative sentiments, and finally neutral sentiments. This pattern in user sentiments provides valuable insights into how users feel and respond to the content on SocialBuzz.
+
+Users on SocialBuzz showed significant attention and engagement towards the top 5 categories, which are animals, science, healthy eating, food, and technology. These categories received a high number of reactions, indicating their popularity among the user community.
+
+Lastly, we looked at the content types used by users on the platform. The most frequently used formats, in descending order, were photos, videos, GIFs, and audio. Users prefer visual content such as photos and videos, while audio content seems to be less commonly used.
+
+Thank You
