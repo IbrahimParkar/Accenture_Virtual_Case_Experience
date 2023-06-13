@@ -10,7 +10,7 @@ You can find the certificate of completion for the virtual experience in the Cer
 
 Throughout the virtual experience, I completed practical tasks in the following areas:
 
-1. Project Understanding
+### Project Understanding
 
 The initial phase involved gaining a comprehensive understanding of the project objectives, requirements, and data sources. I conducted thorough research to identify the key questions to be addressed through data analysis.
 
